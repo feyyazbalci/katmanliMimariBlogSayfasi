@@ -1,0 +1,12 @@
+C:\Users\ahmet\source\repos\Blog\Blog.Shared\bin\Debug\net5.0\Blog.Shared.deps.json
+C:\Users\ahmet\source\repos\Blog\Blog.Shared\bin\Debug\net5.0\Blog.Shared.dll
+C:\Users\ahmet\source\repos\Blog\Blog.Shared\bin\Debug\net5.0\Blog.Shared.pdb
+C:\Users\ahmet\source\repos\Blog\Blog.Shared\obj\Debug\net5.0\Blog.Shared.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\Blog\Blog.Shared\obj\Debug\net5.0\Blog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\source\repos\Blog\Blog.Shared\obj\Debug\net5.0\Blog.Shared.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\Blog\Blog.Shared\obj\Debug\net5.0\Blog.Shared.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\Blog\Blog.Shared\obj\Debug\net5.0\Blog.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\Blog\Blog.Shared\obj\Debug\net5.0\Blog.Shared.dll
+C:\Users\ahmet\source\repos\Blog\Blog.Shared\obj\Debug\net5.0\refint\Blog.Shared.dll
+C:\Users\ahmet\source\repos\Blog\Blog.Shared\obj\Debug\net5.0\Blog.Shared.pdb
+C:\Users\ahmet\source\repos\Blog\Blog.Shared\obj\Debug\net5.0\ref\Blog.Shared.dll
